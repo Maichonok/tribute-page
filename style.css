@@ -1,17 +1,21 @@
+	body{
+		font-family: 'Roboto', sans-serif;
+	}
+
 	h1 { 
-	  font: 50px medium Arial;
+	  font-size: 50px;
 	  text-align: center;
 	  line-height: 2;
 	  margin-bottom: 0;
 	}
 
 	h2 {
-	  font: 25px medium Arial;
+	  font-size: 25px;
 	  text-align: center;
 	  line-height: 2;
 	  margin-bottom: 0;
-	  
 	}
+
 
 	#image {
 	   border: 5px ridge gray;
@@ -82,7 +86,7 @@
 	}
 
 	h3 {
-	  	font: 30px bold;
+	  	font-size: 30px;
 	  	text-align: justify;
 	 	line-height: 1.5;
 	  	padding: 40px;
@@ -92,7 +96,7 @@
 	}
 
 	#tribute-link {
-		font: 30px bold;
+		font-size: 30px;
 	  	line-height: 1.5;
 	  	padding: 40px;
 	 	margin: -30px;
